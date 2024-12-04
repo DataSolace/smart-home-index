@@ -2,8 +2,6 @@
 
 A community-driven database of self-hosting notes for smart home devices, focused on local control, open standards, and practical implementation details.
 
-![Smart Home Index Logo](https://smarthomeindex.com/logo.webp)
-
 ## Mission
 
 The Smart Home Index aims to make smart home technology accessible by simplifying device comparisons for everyone. We help users understand the benefits of local control and how projects like Home Assistant can enhance their smart home experience. Our goal is to empower users with clear, practical information to make informed decisions without vendor lock-in.
