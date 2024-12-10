@@ -7,8 +7,8 @@ These notes help others understand how to locally control and integrate their de
 
 1. Fork the repository (and clone it locally if you're editing on your own machine)
 2. Create a branch for your notes, named something relevant like `add-shelly-em3`
-3. Add your self-hosting notes under the correct manufacturer and device directory
-    1. If the manufacturer or device don't exist, feel free to create the directory with a `info.md` file containing basic information about the manufacturer or device
+3. Add your self-hosting notes in `notes.md`under the correct manufacturer and device directory
+    1. If the manufacturer or device don't exist, feel free to create the directory with a `info.md` file containing basic information about the manufacturer or device (this is optional, but will help speed up the process of adding the device to the index)
 4. Submit a Pull Request
 
 ## Detailed Process
