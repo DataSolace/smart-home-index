@@ -129,6 +129,34 @@ Create a Pull Request via GitHub and include details such as:
 - Your overall experience
 - Any specific challenges you solved
 
+### 5. Commit Message Standards
+
+We follow the [Conventional Commits specification](https://www.conventionalcommits.org/en/v1.0.0/) for our commit messages. This helps keep our commit history clean and machine-readable. The basic structure is:
+
+```
+<type>[optional scope]: <description>
+
+[optional body]
+
+[optional footer(s)]
+```
+
+Common types include:
+- `feat`: New feature (like adding device notes or manufacturer information)
+- `fix`: Bug fix (correcting incorrect information)
+- `docs`: Internal documentation changes (like updating this CONTRIBUTING.md)
+- `chore`: Maintenance tasks
+- `refactor`: Reorganizing existing content without changing its meaning
+
+Examples:
+```
+feat: add Shelly EM3 self-hosting notes
+fix: correct MQTT topic for Inovelli dimmers
+feat(aqara): add manufacturer information
+docs: update contribution guidelines
+chore: fix typos in multiple device notes
+```
+
 ## Guidelines
 
 ### Do
