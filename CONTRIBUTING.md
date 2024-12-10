@@ -11,6 +11,8 @@ These notes help others understand how to locally control and integrate their de
     1. If the manufacturer or device don't exist, feel free to create the directory with a `info.md` file containing basic information about the manufacturer or device (this is optional, but will help speed up the process of adding the device to the index)
 4. Submit a Pull Request
 
+> **Not comfortable with Git?** No problem! Just open an issue with your notes and we'll handle adding them to the repository for you. Make sure to let us know how you'd like to be credited (GitHub username, website, etc.).
+
 ## Detailed Process
 
 ### 1. Fork & Clone
