@@ -1,5 +1,7 @@
 # Smart Heating Anthracite TRV
 
+<!-- device-id: 3f93b068-b554-4c90-ac9b-f7c7c5156ecc -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

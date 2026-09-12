@@ -1,5 +1,7 @@
 # Tapo Mini (TC60)
 
+<!-- device-id: 869e4e62-89b0-4536-a848-94f2b8c0f197 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

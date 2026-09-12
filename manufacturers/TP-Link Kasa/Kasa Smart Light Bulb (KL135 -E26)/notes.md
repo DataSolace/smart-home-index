@@ -1,5 +1,7 @@
 # Kasa Smart Light Bulb (KL135  -E26)
 
+<!-- device-id: f2b4844c-68ab-4287-9d86-dbc125b648f8 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

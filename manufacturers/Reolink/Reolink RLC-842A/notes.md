@@ -1,5 +1,7 @@
 # Reolink RLC-842A
 
+<!-- device-id: b9831354-b50a-4fd8-8ad4-e492ceda892d -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

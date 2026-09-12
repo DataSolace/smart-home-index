@@ -1,5 +1,7 @@
 # Meross Smart Plug Mini (MS110)
 
+<!-- device-id: 63763299-242a-459d-8d02-69289e3afb3f -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

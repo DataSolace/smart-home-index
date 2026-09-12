@@ -1,5 +1,7 @@
 # Airthings View Radon 2989
 
+<!-- device-id: 0a1e6e34-b3fe-411a-bac8-c9c3fee82cc6 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

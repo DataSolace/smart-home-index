@@ -1,5 +1,7 @@
 # Tapo C425
 
+<!-- device-id: b3dbf12c-95f7-4fb7-b704-bbd9ee418bdb -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Aqara Door and Window Sensor P2
 
+<!-- device-id: c753b80a-7c0e-4584-9387-977c1207e670 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

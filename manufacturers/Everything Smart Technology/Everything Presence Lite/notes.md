@@ -1,5 +1,7 @@
 # Everything Presence Lite
 
+<!-- device-id: ad48eea6-4de7-44c2-8671-1df232cf1636 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

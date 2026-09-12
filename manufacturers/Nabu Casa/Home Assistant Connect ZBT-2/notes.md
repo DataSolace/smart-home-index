@@ -1,5 +1,7 @@
 # Home Assistant Connect ZBT-2
 
+<!-- device-id: db4e92d9-9a64-41c4-9755-9afc6091da64 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

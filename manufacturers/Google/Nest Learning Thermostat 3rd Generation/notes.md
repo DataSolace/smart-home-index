@@ -1,5 +1,7 @@
 # Nest Learning Thermostat 3rd Generation
 
+<!-- device-id: 56279b83-811f-401c-b794-e315d8fbb90c -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

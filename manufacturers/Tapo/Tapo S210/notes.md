@@ -1,5 +1,7 @@
 # Tapo S210
 
+<!-- device-id: 962ddda6-fe16-412d-afd3-1e984b531f7b -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # LEDVANCE SMART+ Classic Tunable White (E27)
 
+<!-- device-id: 08fc381e-9781-4735-a3ba-afaee01bd1f0 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

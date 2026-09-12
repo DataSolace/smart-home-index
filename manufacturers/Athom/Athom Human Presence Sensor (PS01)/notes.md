@@ -1,5 +1,7 @@
 # Athom Human Presence Sensor (PS01)
 
+<!-- device-id: c3dc0d60-6701-4259-90ec-29166e32de94 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

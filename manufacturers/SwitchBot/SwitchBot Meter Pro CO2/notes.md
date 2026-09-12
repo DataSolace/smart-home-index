@@ -1,5 +1,7 @@
 # SwitchBot Meter Pro CO2
 
+<!-- device-id: 69831db4-86a8-4778-be7f-f5e1bf7014b2 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

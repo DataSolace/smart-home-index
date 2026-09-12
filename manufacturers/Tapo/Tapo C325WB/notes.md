@@ -1,5 +1,7 @@
 # Tapo C325WB
 
+<!-- device-id: afec8e8a-6f48-4164-acdc-6dc9b9920d10 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Apple AirTag
 
+<!-- device-id: a22dbc05-ff48-487e-b4ad-0b4efddf98a8 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

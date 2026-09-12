@@ -1,5 +1,7 @@
 # frient Entry Sensor
 
+<!-- device-id: 8d40543f-d437-4116-8fdd-8d4cbb997e34 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

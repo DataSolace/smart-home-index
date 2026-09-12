@@ -1,5 +1,7 @@
 # Tile Slim (2022)
 
+<!-- device-id: db32889f-60e2-4757-9f5f-0e0942942d9b -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

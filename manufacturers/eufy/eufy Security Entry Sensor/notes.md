@@ -1,5 +1,7 @@
 # eufy Security Entry Sensor
 
+<!-- device-id: 463c0b52-ded0-41c1-ba29-4787ebb079d3 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

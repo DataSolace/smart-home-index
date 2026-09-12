@@ -1,5 +1,7 @@
 # UGREEN FineTrack Mini
 
+<!-- device-id: 686ab489-7764-43cd-8615-23d1c96674e6 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

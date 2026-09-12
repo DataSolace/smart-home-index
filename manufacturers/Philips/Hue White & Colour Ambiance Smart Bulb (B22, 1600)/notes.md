@@ -1,5 +1,7 @@
 # Hue White & Colour Ambiance Smart Bulb (B22, 1600)
 
+<!-- device-id: 8984db73-1571-45a8-8d2e-2993463771b9 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

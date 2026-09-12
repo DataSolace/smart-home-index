@@ -1,5 +1,7 @@
 # Innr Smart Outdoor Globe (1 Pack)
 
+<!-- device-id: d28fe1f0-baf9-4d69-877d-c39a8b0dbf9d -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

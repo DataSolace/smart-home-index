@@ -1,5 +1,7 @@
 # Tapo T310
 
+<!-- device-id: 76943b93-b8aa-4c8c-a0e7-3103c20d3285 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

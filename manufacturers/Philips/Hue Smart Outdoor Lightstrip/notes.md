@@ -1,5 +1,7 @@
 # Hue Smart Outdoor Lightstrip
 
+<!-- device-id: b4cd38ec-2e81-4097-8221-fd20f0019a8c -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

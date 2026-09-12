@@ -1,5 +1,7 @@
 # dreame L40 Ultra
 
+<!-- device-id: fdad7b2a-1771-4b66-8ac0-97217c62f9a5 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

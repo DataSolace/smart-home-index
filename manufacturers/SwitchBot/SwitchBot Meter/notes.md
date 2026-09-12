@@ -1,5 +1,7 @@
 # SwitchBot Meter
 
+<!-- device-id: 2001452b-e47f-465d-8c1b-db715a412fec -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

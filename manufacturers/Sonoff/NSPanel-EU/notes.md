@@ -1,5 +1,7 @@
 # NSPanel-EU
 
+<!-- device-id: 625f2e67-f043-4887-aef3-d291be7baef5 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

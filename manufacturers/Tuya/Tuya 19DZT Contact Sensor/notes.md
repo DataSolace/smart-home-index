@@ -1,5 +1,7 @@
 # Tuya 19DZT Contact Sensor
 
+<!-- device-id: c5f4ef84-2eb1-49a6-b732-272f31729f05 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Hue White Ambiance Smart Light Bulb (e14)
 
+<!-- device-id: 1150cd2c-a5a6-477b-a61c-7e56cf3c95f4 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

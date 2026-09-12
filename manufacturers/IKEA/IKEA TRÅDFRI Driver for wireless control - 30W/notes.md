@@ -1,5 +1,7 @@
 # IKEA TRÅDFRI Driver for wireless control - 30W
 
+<!-- device-id: 7f9edefb-6a02-4b28-bcfc-dbceef5d7b27 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

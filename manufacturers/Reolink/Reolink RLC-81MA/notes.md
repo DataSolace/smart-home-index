@@ -1,5 +1,7 @@
 # Reolink RLC-81MA
 
+<!-- device-id: f767b7db-ddb8-411b-afb4-cf77b8df54d8 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

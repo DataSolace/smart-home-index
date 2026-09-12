@@ -1,5 +1,7 @@
 # Innr Smart Outdoor Post Lights (3-Pack)
 
+<!-- device-id: 96ae045d-c27d-458d-802f-cb3699a06c5e -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

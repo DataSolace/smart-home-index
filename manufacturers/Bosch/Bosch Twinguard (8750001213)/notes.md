@@ -1,5 +1,7 @@
 # Bosch Twinguard (8750001213)
 
+<!-- device-id: 82729a87-97db-43ca-9889-774c13520239 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

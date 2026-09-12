@@ -1,5 +1,7 @@
 # Tapo C225
 
+<!-- device-id: cb83ba88-2e52-4220-847d-481477235f74 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

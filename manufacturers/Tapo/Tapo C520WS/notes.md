@@ -1,5 +1,7 @@
 # Tapo C520WS
 
+<!-- device-id: 97c3b189-566f-4a0d-a8b9-3cf6ab7eba0b -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

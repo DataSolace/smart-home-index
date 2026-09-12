@@ -1,5 +1,7 @@
 # THIRDREALITY Zigbee Multifunctional Night Light (NA - Type A)
 
+<!-- device-id: 1e5faaed-3205-4848-bd19-d7e6e960e06d -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

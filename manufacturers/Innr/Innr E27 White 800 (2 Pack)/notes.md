@@ -1,5 +1,7 @@
 # Innr E27 White 800 (2 Pack)
 
+<!-- device-id: 3bb4172e-d6ed-4a85-b60a-a1aa9587ea71 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

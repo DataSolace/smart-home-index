@@ -1,5 +1,7 @@
 # IKEA TRETAKT Smart Plug
 
+<!-- device-id: d3ac28ba-22b2-403c-8d21-cef962c2ad85 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Meross Smart Plug Mini (MSS115)
 
+<!-- device-id: d8207205-b45e-40b0-887e-15f0eee221da -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

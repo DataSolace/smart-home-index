@@ -1,5 +1,7 @@
 # TP-Link Kasa Smart Thermostat Radiator Valve Starter Kit (KE100 KIT)
 
+<!-- device-id: abab6efc-655d-4547-9cb8-4bbf724a1cdc -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

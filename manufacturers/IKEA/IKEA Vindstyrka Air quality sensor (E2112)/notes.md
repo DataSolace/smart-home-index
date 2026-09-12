@@ -1,5 +1,7 @@
 # IKEA Vindstyrka Air quality sensor (E2112)
 
+<!-- device-id: 9165702c-c65e-401a-965f-ee40f62beba6 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

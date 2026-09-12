@@ -1,5 +1,7 @@
 # Tapo T100
 
+<!-- device-id: 9b9c8880-7594-49ef-9223-09f57afa8888 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

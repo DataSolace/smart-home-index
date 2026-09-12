@@ -1,5 +1,7 @@
 # Bosch Universal Switch II (BHI-US)
 
+<!-- device-id: 48f2f65f-d322-4f59-a56e-46379f9b8088 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

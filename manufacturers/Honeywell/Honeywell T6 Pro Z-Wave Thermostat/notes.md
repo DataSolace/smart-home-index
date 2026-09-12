@@ -1,5 +1,7 @@
 # Honeywell T6 Pro Z-Wave Thermostat
 
+<!-- device-id: 06095a8e-3486-4ee7-88b5-1796e2864ea9 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # SONOFF iHost Smart Home Hub
 
+<!-- device-id: 496ec656-2879-412d-a4b4-af034910f11c -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

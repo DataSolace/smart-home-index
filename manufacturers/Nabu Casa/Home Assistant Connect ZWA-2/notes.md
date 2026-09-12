@@ -1,5 +1,7 @@
 # Home Assistant Connect ZWA-2
 
+<!-- device-id: 7879f8b5-5a58-4338-8570-a0a13b495abc -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

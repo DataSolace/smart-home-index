@@ -1,5 +1,7 @@
 # Shelly Blu TRV (+Blu Gateway Gen3)
 
+<!-- device-id: 38d36672-ce4f-4392-b3ab-c40a490a5fd2 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

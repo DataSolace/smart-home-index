@@ -1,5 +1,7 @@
 # THIRDREALITY Zigbee Multifunctional Night Light (EU - Type F)
 
+<!-- device-id: 06829f3e-0b69-49b1-aae7-7d67e4935de4 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

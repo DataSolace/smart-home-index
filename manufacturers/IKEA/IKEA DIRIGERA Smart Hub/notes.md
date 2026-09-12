@@ -1,5 +1,7 @@
 # IKEA DIRIGERA Smart Hub
 
+<!-- device-id: 9c0b98c1-454e-43d8-a352-91c34087ef95 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

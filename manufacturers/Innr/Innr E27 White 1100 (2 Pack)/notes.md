@@ -1,5 +1,7 @@
 # Innr E27 White 1100 (2 Pack)
 
+<!-- device-id: fba38f04-3d7e-4be1-92eb-12cad208c937 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # SwitchBot Curtain 3 (Rod Version)
 
+<!-- device-id: 41304871-562f-4ae9-b49e-756f65c858bd -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

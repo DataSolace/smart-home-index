@@ -1,5 +1,7 @@
 # SwitchBot Curtain 3 (Track Version)
 
+<!-- device-id: 037950c4-dd1b-4fc0-a087-5926263f1ff1 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

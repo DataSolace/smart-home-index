@@ -1,5 +1,7 @@
 # Aqara Cube T1 Pro
 
+<!-- device-id: 33035419-8d47-400e-b761-b6eb985f63cd -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

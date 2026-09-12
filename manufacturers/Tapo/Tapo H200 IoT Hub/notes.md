@@ -1,5 +1,7 @@
 # Tapo H200 IoT Hub
 
+<!-- device-id: 26ac3995-8a67-4ebc-ade4-cc7dc70f2b63 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

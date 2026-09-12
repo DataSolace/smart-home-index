@@ -1,5 +1,7 @@
 # Eve Energy - Smart Plug and Power Meter - Type G (UK)
 
+<!-- device-id: 59e7b0b9-5d32-4dbb-92ba-99a9a1b79c33 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Innr Coloured Lights (2-Pack)
 
+<!-- device-id: 389e13fe-21a6-462c-8152-178cfa81ed71 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

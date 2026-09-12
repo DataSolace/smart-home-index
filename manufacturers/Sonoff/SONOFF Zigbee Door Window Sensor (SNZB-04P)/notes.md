@@ -1,5 +1,7 @@
 # SONOFF Zigbee Door Window Sensor (SNZB-04P)
 
+<!-- device-id: 5e8efd57-7e18-42a0-bb9b-5ee35add8a45 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

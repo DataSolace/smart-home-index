@@ -1,5 +1,7 @@
 # Tapo L900-5
 
+<!-- device-id: 8f84b026-d0c4-4b35-bd6a-9bc0f87ff0b3 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

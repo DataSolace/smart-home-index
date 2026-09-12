@@ -1,5 +1,7 @@
 # Aqara Smart Hub M3
 
+<!-- device-id: a7ca98fb-fec0-4d0b-b113-ad851476b598 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

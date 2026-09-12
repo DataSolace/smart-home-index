@@ -1,5 +1,7 @@
 # Nabu Casa Home Assistant Yellow (PoE)
 
+<!-- device-id: 414f83a3-a05d-4885-a81b-f602655d8076 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

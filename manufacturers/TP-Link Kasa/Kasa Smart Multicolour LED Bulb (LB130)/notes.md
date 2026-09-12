@@ -1,5 +1,7 @@
 # Kasa Smart Multicolour LED Bulb (LB130)
 
+<!-- device-id: df6548ae-59a9-44f0-a508-3c19c6237eac -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

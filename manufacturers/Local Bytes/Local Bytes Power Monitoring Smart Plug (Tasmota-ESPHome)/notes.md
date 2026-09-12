@@ -1,5 +1,7 @@
 # Local Bytes Power Monitoring Smart Plug (Tasmota/ESPHome)
 
+<!-- device-id: e5fdc64b-e384-4553-a418-3ca296534043 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Tile by Life360 Slim (2024)
 
+<!-- device-id: fafb830e-8e05-43f6-8754-2fe31983747a -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

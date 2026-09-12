@@ -1,5 +1,7 @@
 # Local Bytes Smart Bulb (9W/RGB+CT)
 
+<!-- device-id: 97f76fa1-bf2e-40c5-adf8-d747d634a08f -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

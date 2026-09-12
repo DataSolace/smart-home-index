@@ -1,5 +1,7 @@
 # SONOFF Zigbee Waterproof Temperature Sensor (SNZB-02LD)
 
+<!-- device-id: 20c14928-4a59-4935-bec0-610aedd5e3af -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

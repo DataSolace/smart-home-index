@@ -1,5 +1,7 @@
 # 1 Gang Smart Switch LED Dimmer - Wi-Fi with Faceplate - C302-WF
 
+<!-- device-id: be4180c0-dde2-48e7-82a6-ab325f195717 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

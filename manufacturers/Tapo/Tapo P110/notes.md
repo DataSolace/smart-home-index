@@ -1,5 +1,7 @@
 # Tapo P110
 
+<!-- device-id: fce0322e-4523-416a-abb1-752911bb86f7 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

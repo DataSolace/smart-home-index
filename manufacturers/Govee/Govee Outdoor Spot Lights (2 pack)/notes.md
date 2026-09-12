@@ -1,5 +1,7 @@
 # Govee Outdoor Spot Lights (2 pack)
 
+<!-- device-id: 83693ba5-0b21-4614-b39e-99fe2f02984c -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

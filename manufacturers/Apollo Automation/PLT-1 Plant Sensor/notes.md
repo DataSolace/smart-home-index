@@ -1,5 +1,7 @@
 # PLT-1 Plant Sensor
 
+<!-- device-id: 95e90076-a321-4b8a-8226-7000b36c9e54 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

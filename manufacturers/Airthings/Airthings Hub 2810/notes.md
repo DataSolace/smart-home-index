@@ -1,5 +1,7 @@
 # Airthings Hub 2810
 
+<!-- device-id: 72eb538d-6332-49c2-adca-4a6f000270e9 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

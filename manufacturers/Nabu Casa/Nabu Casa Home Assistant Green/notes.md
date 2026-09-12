@@ -1,5 +1,7 @@
 # Nabu Casa Home Assistant Green
 
+<!-- device-id: 951ad9c3-3f9b-4ec3-8ddc-12d65aa455cd -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

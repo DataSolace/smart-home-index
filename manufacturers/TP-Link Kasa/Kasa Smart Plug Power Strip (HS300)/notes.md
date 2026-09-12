@@ -1,5 +1,7 @@
 # Kasa Smart Plug Power Strip (HS300)
 
+<!-- device-id: 181f141d-a7ee-4d7c-9312-7d576e206beb -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

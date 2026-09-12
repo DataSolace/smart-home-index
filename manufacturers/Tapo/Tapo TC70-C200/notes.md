@@ -1,5 +1,7 @@
 # Tapo TC70/C200
 
+<!-- device-id: 8468a372-ed85-4b0b-b4d4-7632b96ef1a7 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

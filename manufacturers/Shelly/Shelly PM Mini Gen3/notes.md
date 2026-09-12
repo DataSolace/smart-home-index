@@ -1,5 +1,7 @@
 # Shelly PM Mini Gen3
 
+<!-- device-id: 04dd247d-14e0-4809-918a-d2d3276af42f -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

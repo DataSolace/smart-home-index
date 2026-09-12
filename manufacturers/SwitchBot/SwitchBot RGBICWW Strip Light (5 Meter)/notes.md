@@ -1,5 +1,7 @@
 # SwitchBot RGBICWW Strip Light (5 Meter)
 
+<!-- device-id: b3658acf-a33e-4407-be8e-c8ddb475338a -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

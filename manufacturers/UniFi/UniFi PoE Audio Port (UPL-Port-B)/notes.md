@@ -1,5 +1,7 @@
 # UniFi PoE Audio Port (UPL-Port-B)
 
+<!-- device-id: 121516a1-3617-42bb-9cfa-ad87cb612450 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Bosch Smart Home Relay Switch (BMCT-RZ)
 
+<!-- device-id: 6014a499-f4f9-44e1-823c-abf06715045a -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

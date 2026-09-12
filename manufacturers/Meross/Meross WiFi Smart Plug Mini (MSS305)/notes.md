@@ -1,5 +1,7 @@
 # Meross WiFi Smart Plug Mini (MSS305)
 
+<!-- device-id: b850fec0-be97-4fa4-9897-db94ec3de480 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

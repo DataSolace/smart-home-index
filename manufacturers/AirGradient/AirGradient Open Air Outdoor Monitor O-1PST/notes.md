@@ -1,5 +1,7 @@
 # AirGradient Open Air Outdoor Monitor O-1PST
 
+<!-- device-id: 1287dbe1-22be-4bf6-a4bf-65d3f4606e16 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

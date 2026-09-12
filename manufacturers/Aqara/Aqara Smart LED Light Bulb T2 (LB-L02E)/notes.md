@@ -1,5 +1,7 @@
 # Aqara Smart LED Light Bulb T2 (LB-L02E)
 
+<!-- device-id: e4189145-5157-4ad6-8f69-1cc43186138b -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

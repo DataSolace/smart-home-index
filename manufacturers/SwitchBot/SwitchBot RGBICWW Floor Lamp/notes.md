@@ -1,5 +1,7 @@
 # SwitchBot RGBICWW Floor Lamp
 
+<!-- device-id: d772faa9-8278-4c99-8189-1d312169bae3 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # SONOFF Zigbee Human Presence Sensor (SNZB-06P)
 
+<!-- device-id: 1c1f1ceb-1f21-4483-bf89-492ec963a52c -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

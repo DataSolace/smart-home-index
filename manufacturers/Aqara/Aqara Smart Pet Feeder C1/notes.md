@@ -1,5 +1,7 @@
 # Aqara Smart Pet Feeder C1
 
+<!-- device-id: 1393d83d-b5d7-4ce9-9a20-84cc003701fe -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

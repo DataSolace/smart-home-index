@@ -1,5 +1,7 @@
 # AirGradient ONE Indoor Monitor I-9PSL
 
+<!-- device-id: b47e2f98-8915-4f1c-bc66-49d9c5045c66 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

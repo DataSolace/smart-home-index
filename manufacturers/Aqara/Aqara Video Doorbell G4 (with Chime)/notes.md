@@ -1,5 +1,7 @@
 # Aqara Video Doorbell G4 (with Chime)
 
+<!-- device-id: dce64ac1-2970-4eea-b554-2d90e2159234 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

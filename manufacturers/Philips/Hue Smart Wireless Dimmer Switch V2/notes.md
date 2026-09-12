@@ -1,5 +1,7 @@
 # Hue Smart Wireless Dimmer Switch V2
 
+<!-- device-id: 2318e14e-4781-40dd-986e-505cac475413 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

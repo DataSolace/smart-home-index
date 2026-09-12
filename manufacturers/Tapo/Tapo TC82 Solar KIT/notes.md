@@ -1,5 +1,7 @@
 # Tapo TC82 Solar KIT
 
+<!-- device-id: 87b8f5d1-8377-4552-8e4d-06e8edb9537f -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

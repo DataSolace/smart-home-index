@@ -1,5 +1,7 @@
 # Smart Irrigation Timer
 
+<!-- device-id: 0bdcbac2-20ec-4d55-a6d3-3efe9612d9db -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Nabu Casa Home Assistant Voice Preview Edition
 
+<!-- device-id: 5321c9ce-f1ff-4263-af35-bafa4965f9aa -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

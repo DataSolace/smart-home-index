@@ -1,5 +1,7 @@
 # Tile by Life360 Sticker (2024)
 
+<!-- device-id: 6ed42d13-f54b-4351-862d-97b59af0e37d -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

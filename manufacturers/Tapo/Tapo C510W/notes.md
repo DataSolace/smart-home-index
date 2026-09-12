@@ -1,5 +1,7 @@
 # Tapo C510W
 
+<!-- device-id: 88f6ae4c-9664-4e0d-a5e7-9cd9dc299f57 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.
