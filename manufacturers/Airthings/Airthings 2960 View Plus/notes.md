@@ -1,5 +1,7 @@
 # Airthings 2960 View Plus
 
+<!-- device-id: 12f1c4c7-1386-4a1d-8696-23af60924b0e -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # ConBee II
 
+<!-- device-id: bb26bdf9-88f0-4398-bddb-899fa32c660b -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

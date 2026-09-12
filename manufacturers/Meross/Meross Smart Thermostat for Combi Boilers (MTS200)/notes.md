@@ -1,5 +1,7 @@
 # Meross Smart Thermostat for Combi Boilers (MTS200)
 
+<!-- device-id: 0aa2fce9-5a22-42ee-ac6f-6518e9bcef0d -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # IKEA Parasoll Contact Sensor
 
+<!-- device-id: 5040718b-3565-4b5c-a0a6-3ed0da251001 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

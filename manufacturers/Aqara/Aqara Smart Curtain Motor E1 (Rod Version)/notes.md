@@ -1,5 +1,7 @@
 # Aqara Smart Curtain Motor E1 (Rod Version)
 
+<!-- device-id: f89786f8-36f8-47ae-943a-52ac26153dd4 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

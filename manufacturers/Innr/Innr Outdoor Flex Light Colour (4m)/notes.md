@@ -1,5 +1,7 @@
 # Innr Outdoor Flex Light Colour (4m)
 
+<!-- device-id: b42c3aba-3d29-43e8-be65-750a2a8621bd -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

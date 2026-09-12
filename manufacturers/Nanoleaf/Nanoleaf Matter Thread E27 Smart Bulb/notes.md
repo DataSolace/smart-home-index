@@ -1,5 +1,7 @@
 # Nanoleaf Matter Thread E27 Smart Bulb
 
+<!-- device-id: 46a87b92-4511-4ad0-aff1-3645739d6a5b -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

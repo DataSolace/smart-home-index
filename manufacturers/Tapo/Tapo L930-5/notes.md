@@ -1,5 +1,7 @@
 # Tapo L930-5
 
+<!-- device-id: efdaf71e-1819-446e-befe-40cff5dc7111 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

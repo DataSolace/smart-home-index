@@ -1,5 +1,7 @@
 # Tapo TC65
 
+<!-- device-id: efe773f4-4624-47d6-90de-64ee537ce521 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

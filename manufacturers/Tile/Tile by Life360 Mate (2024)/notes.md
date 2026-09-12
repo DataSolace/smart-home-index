@@ -1,5 +1,7 @@
 # Tile by Life360 Mate (2024)
 
+<!-- device-id: a6b4c7c5-0a33-4726-8003-9cecb50d9721 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

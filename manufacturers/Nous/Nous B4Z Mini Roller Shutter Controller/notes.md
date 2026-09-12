@@ -1,5 +1,7 @@
 # Nous B4Z Mini Roller Shutter Controller
 
+<!-- device-id: b6901ae9-88e7-4057-b3da-4070ed75c55c -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

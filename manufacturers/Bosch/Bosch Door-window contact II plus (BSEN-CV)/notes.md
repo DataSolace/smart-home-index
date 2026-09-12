@@ -1,5 +1,7 @@
 # Bosch Door/window contact II plus (BSEN-CV)
 
+<!-- device-id: 53327415-b750-4fda-9f1c-17bc14d14b67 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # AVATTO TRV06
 
+<!-- device-id: f05b1f58-16f0-4e82-bc58-f4c8eacab4fe -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

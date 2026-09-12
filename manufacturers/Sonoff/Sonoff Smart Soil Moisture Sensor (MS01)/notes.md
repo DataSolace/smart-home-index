@@ -1,5 +1,7 @@
 # Sonoff Smart Soil Moisture Sensor (MS01)
 
+<!-- device-id: 09084afb-e85b-4274-b55c-3be13465f01a -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

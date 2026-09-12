@@ -1,5 +1,7 @@
 # Meross Smart Thermostat, for Electric Underfloor (MTS200)
 
+<!-- device-id: 205ba924-b72a-4134-808e-4d67b4b090dd -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

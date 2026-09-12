@@ -1,5 +1,7 @@
 # Eve Energy - Smart Plug and Power Meter - Type E/F (EU)
 
+<!-- device-id: 04d94bf4-421b-4772-87cd-3cde074d2027 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

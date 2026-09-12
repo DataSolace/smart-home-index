@@ -1,5 +1,7 @@
 # Meross Smart Plug Mini (MSS315)
 
+<!-- device-id: 5b1c5f38-b90a-4e4d-a6c1-49ebab48d365 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

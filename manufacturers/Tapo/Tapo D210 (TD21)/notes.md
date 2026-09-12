@@ -1,5 +1,7 @@
 # Tapo D210 (TD21)
 
+<!-- device-id: 66552431-9f2f-41f0-b154-ef32b31ea97e -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

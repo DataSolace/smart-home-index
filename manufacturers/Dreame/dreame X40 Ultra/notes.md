@@ -1,5 +1,7 @@
 # dreame X40 Ultra
 
+<!-- device-id: 934046c1-2fba-4dc4-9f06-a40b61e52e1e -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

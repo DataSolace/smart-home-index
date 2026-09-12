@@ -1,5 +1,7 @@
 # Bosch Smart Home door/window contact II [+M]
 
+<!-- device-id: 6f3f5758-92a6-46db-a11a-7578cfdf5ba2 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

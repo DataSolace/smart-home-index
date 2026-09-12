@@ -1,5 +1,7 @@
 # Everything Presence One
 
+<!-- device-id: 461a20b7-aaa1-43c3-bbe7-545cb49ad066 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

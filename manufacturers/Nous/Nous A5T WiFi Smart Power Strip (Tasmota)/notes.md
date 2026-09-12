@@ -1,5 +1,7 @@
 # Nous A5T WiFi Smart Power Strip (Tasmota)
 
+<!-- device-id: d46b4fb4-b3d9-49db-be54-8b0d2ef35c55 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

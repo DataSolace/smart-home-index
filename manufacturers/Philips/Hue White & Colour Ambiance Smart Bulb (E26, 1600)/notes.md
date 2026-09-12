@@ -1,5 +1,7 @@
 # Hue White & Colour Ambiance Smart Bulb (E26, 1600)
 
+<!-- device-id: f8d0e3e5-0d52-434e-88cc-619c42b26b42 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

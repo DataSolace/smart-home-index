@@ -1,5 +1,7 @@
 # Eve Energy - Smart Plug and Power Meter - Type A/B (NA)
 
+<!-- device-id: 18a41026-fe2b-42db-ab28-54e16921ec46 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

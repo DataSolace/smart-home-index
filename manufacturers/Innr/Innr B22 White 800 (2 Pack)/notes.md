@@ -1,5 +1,7 @@
 # Innr B22 White 800 (2 Pack)
 
+<!-- device-id: 8ccde474-65c6-4d60-a569-3fca8bf63d25 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

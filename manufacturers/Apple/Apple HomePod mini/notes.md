@@ -1,5 +1,7 @@
 # Apple HomePod mini
 
+<!-- device-id: 43efd450-7e64-479e-89c5-5bafebc2d410 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

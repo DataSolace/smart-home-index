@@ -1,5 +1,7 @@
 # Tapo RV30 Plus
 
+<!-- device-id: 9d32fc68-4cb3-4103-a3e2-87a81a95dacb -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

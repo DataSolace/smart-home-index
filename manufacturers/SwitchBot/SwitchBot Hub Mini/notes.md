@@ -1,5 +1,7 @@
 # SwitchBot Hub Mini
 
+<!-- device-id: 043a3dd9-4364-471a-8c57-1edd3607295c -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

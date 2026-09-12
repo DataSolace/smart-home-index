@@ -1,5 +1,7 @@
 # Philips Hue Bridge Pro
 
+<!-- device-id: fb73db5e-cf40-42c9-b959-7bfe7c5919ab -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

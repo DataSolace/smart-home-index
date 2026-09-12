@@ -1,5 +1,7 @@
 # SONOFF Zigbee Temperature and Humidity Sensor (SNZB-02P)
 
+<!-- device-id: b6f5f076-daff-4940-ab25-28de41315a6e -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # SONOFF Temperature Humidity Sensor (SNZB-02D)
 
+<!-- device-id: b66d49ca-59a7-471f-8185-0dfd4f5841af -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

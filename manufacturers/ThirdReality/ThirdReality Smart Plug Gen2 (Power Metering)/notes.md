@@ -1,5 +1,7 @@
 # ThirdReality Smart Plug Gen2 (Power Metering)
 
+<!-- device-id: 28263c7c-c412-4868-b283-33dec1976ce2 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Innr E27 Comfort 1100 (2 Pack)
 
+<!-- device-id: c2fe6408-8793-46d0-913a-7db3590b8628 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Reolink Smart 2K+ Wired PoE Video Doorbell with Chime
 
+<!-- device-id: 34a5f398-bef6-420f-a37c-fae7f87362b0 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

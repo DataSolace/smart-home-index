@@ -1,5 +1,7 @@
 # Philips Hue White filament Edison
 
+<!-- device-id: 4efab219-4cba-4ef0-9798-64e77c08092b -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

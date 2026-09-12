@@ -1,5 +1,7 @@
 # Home Assistant Connect ZBT-1 (NC-ZBT-9710)
 
+<!-- device-id: bae2b1a9-cc58-4e12-827e-dba358936f88 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

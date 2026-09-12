@@ -1,5 +1,7 @@
 # SONOFF BASICZBR3 Zigbee Smart Switch
 
+<!-- device-id: d7e062b3-ed85-415c-bba0-1030c0ca3fd5 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

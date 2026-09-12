@@ -1,5 +1,7 @@
 # SONOFF CAM Slim Gen2
 
+<!-- device-id: 571fd6f5-387e-4839-b4a1-add5d09969cf -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

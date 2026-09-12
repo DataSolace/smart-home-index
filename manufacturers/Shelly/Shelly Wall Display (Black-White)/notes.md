@@ -1,5 +1,7 @@
 # Shelly Wall Display (Black/White)
 
+<!-- device-id: 133125db-00ba-4eef-9a4c-54ae48cdb73f -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

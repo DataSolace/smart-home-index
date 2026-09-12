@@ -1,5 +1,7 @@
 # Bosch Smart Home door/window contact II (BSEN-C2)
 
+<!-- device-id: 6918f729-6b52-408d-9659-d42546a353b3 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

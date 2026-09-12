@@ -1,5 +1,7 @@
 # Reolink RLC-811A
 
+<!-- device-id: eaaf72b7-a2c5-4576-98ad-9caee07b82e6 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

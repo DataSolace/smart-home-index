@@ -1,5 +1,7 @@
 # Innr Zigbee Smart Plug (SP 242)
 
+<!-- device-id: c19e821c-80f5-46e4-b432-327e20fab6be -->
+
 [SP242 zigbee2mqtt device page](https://www.zigbee2mqtt.io/devices/SP_242.html)
 
 [Innr SP242 instruction manual](https://www.innr.com/wp-content/uploads/2024/04/INNR_IM_SP-242_WT10.pdf)

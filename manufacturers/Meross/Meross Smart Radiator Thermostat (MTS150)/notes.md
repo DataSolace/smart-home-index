@@ -1,5 +1,7 @@
 # Meross Smart Radiator Thermostat (MTS150)
 
+<!-- device-id: 56f5f3db-b297-423b-af39-a32a2b3a9447 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

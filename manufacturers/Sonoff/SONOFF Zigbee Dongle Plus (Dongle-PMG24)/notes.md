@@ -1,5 +1,7 @@
 # SONOFF Zigbee Dongle Plus (Dongle-PMG24)
 
+<!-- device-id: c8af7b38-891a-4267-ba64-d0ced57294bf -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

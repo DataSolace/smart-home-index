@@ -1,5 +1,7 @@
 # Nous B2Z ZigBee Power Monitoring Switch
 
+<!-- device-id: 56574014-1966-489a-a02a-e9268ee271cf -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

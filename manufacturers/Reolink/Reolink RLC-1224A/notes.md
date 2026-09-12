@@ -1,5 +1,7 @@
 # Reolink RLC-1224A
 
+<!-- device-id: bb22f3dd-e37a-4337-9eb6-c1be0ce71d71 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

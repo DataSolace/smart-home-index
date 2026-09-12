@@ -1,5 +1,7 @@
 # SwitchBot Hub 3
 
+<!-- device-id: ade5ad00-b564-4b90-bb3a-e96959113f68 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

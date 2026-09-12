@@ -1,5 +1,7 @@
 # TP-Link Kasa Smart Thermostat Radiator Valve (KE100)
 
+<!-- device-id: 299c8678-3ecd-4070-9872-55d5aa6fa03f -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

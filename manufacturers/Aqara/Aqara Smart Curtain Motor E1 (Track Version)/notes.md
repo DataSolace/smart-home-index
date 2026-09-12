@@ -1,5 +1,7 @@
 # Aqara Smart Curtain Motor E1 (Track Version)
 
+<!-- device-id: 19069273-5700-443f-ba83-5f40488d49e3 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

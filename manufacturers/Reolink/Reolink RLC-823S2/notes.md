@@ -1,5 +1,7 @@
 # Reolink RLC-823S2
 
+<!-- device-id: ede9fd53-4c94-4bcc-8c7c-579833534fb7 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

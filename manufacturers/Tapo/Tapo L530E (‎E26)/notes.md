@@ -1,5 +1,7 @@
 # Tapo L530E (‎E26)
 
+<!-- device-id: 1762fc9a-7375-403b-82c7-13916282106f -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

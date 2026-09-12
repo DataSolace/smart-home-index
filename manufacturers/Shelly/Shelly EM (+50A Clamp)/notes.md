@@ -1,5 +1,7 @@
 # Shelly EM (+50A Clamp) 
 
+<!-- device-id: fbe8d7e4-4dbc-428d-ae9a-96268402b7df -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

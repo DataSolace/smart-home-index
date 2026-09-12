@@ -1,5 +1,7 @@
 # Govee Outdoor LED String Lights (30m)
 
+<!-- device-id: fc16d8e8-eaf3-4087-950a-6251a7e4f689 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Govee RGBIC TV Light Bars
 
+<!-- device-id: 5e5cfe6b-4025-40ce-bab8-50456674b7b3 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

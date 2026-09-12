@@ -1,5 +1,7 @@
 # Shelly 2PM
 
+<!-- device-id: d3d355cb-fa6a-41d3-b653-18ae96c6b092 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

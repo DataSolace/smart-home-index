@@ -1,5 +1,7 @@
 # Tuya 2CT Energy Monitor
 
+<!-- device-id: e992c22e-328f-4c47-b650-f56787733f97 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

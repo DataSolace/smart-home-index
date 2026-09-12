@@ -1,5 +1,7 @@
 # THIRDREALITY Matter Multifunctional Night Light (EU - Type F)
 
+<!-- device-id: 3f8ff99d-3d60-4361-aeb5-9e553f1107ca -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

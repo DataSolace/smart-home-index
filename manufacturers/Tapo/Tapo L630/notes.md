@@ -1,5 +1,7 @@
 # Tapo L630
 
+<!-- device-id: 45951e0c-b990-4b0c-acd7-7c72af89e7d4 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

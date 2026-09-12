@@ -1,5 +1,7 @@
 # frient Entry Sensor Pro
 
+<!-- device-id: 2713766a-9aae-4ad4-be5c-dfe0eb4289bd -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

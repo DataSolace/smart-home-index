@@ -1,5 +1,7 @@
 # Bosch Light/shutter control unit II (BMCT-SLZ)
 
+<!-- device-id: 04e432ad-10a3-4ea4-96c8-e2d5c5268451 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

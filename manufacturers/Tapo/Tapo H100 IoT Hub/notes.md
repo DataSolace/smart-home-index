@@ -1,5 +1,7 @@
 # Tapo H100 IoT Hub
 
+<!-- device-id: 9cf60ee1-d7e9-4c17-9311-d2b6171cd4e2 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

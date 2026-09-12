@@ -1,5 +1,7 @@
 # Reolink RLC-820A
 
+<!-- device-id: b4d4a32c-3172-41fe-a8ee-3f88db531534 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

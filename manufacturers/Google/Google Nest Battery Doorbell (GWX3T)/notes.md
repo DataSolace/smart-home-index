@@ -1,5 +1,7 @@
 # Google Nest Battery Doorbell (GWX3T)
 
+<!-- device-id: 5b8d9db5-9ace-4dac-883b-997a216024dc -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

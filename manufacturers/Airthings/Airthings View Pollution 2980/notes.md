@@ -1,5 +1,7 @@
 # Airthings View Pollution 2980
 
+<!-- device-id: 0a851119-0e92-414e-8a15-47fd205e7a20 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

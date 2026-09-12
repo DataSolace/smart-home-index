@@ -1,5 +1,7 @@
 # Aqara Camera E1
 
+<!-- device-id: 85f3f2c4-005b-4fb5-b428-0e1977448185 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

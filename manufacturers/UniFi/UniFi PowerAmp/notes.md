@@ -1,5 +1,7 @@
 # UniFi PowerAmp
 
+<!-- device-id: ad93a2d6-64ed-41f1-b0d3-a877ed87d09a -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

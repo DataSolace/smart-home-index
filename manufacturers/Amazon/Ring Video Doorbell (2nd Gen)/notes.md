@@ -1,5 +1,7 @@
 # Ring Video Doorbell (2nd Gen)
 
+<!-- device-id: e1e5fc3e-7681-402d-b748-0c9c7a85ae33 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

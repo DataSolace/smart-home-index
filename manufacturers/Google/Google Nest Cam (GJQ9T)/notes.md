@@ -1,5 +1,7 @@
 # Google Nest Cam (GJQ9T)
 
+<!-- device-id: a4c5b43a-bb1e-4cdf-a6fd-d9e282e30f3e -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

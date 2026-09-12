@@ -1,5 +1,7 @@
 # Fire HD 8 Plus (+dock)
 
+<!-- device-id: 57b4e79b-1490-48d1-895a-593a05912ab2 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

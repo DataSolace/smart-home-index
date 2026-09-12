@@ -1,5 +1,7 @@
 # Hue Smart Button
 
+<!-- device-id: d2db6f3d-a9fa-4eb7-82d5-ea620c2e17bf -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

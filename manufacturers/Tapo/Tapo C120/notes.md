@@ -1,5 +1,7 @@
 # Tapo C120
 
+<!-- device-id: 4d0b3c81-9427-4078-96fe-7f754ed42277 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

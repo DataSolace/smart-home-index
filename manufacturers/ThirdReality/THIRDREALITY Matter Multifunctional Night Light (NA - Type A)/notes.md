@@ -1,5 +1,7 @@
 # THIRDREALITY Matter Multifunctional Night Light (NA - Type A)
 
+<!-- device-id: 3aa65f0d-3472-4d33-a885-a3a8ee93e693 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

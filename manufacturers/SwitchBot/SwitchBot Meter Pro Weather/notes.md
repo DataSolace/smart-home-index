@@ -1,5 +1,7 @@
 # SwitchBot Meter Pro Weather
 
+<!-- device-id: bdc38018-a4fd-475a-9a86-1db1c8165335 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

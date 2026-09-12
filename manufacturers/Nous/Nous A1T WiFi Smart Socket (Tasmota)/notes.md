@@ -1,5 +1,7 @@
 # Nous A1T WiFi Smart Socket (Tasmota)
 
+<!-- device-id: ce4101f4-2736-4cc5-8191-8d35b2792fb0 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

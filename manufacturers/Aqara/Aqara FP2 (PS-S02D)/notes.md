@@ -1,5 +1,7 @@
 # Aqara  FP2 (PS-S02D)
 
+<!-- device-id: b7e3c165-c2c2-4c3d-923c-f2177dde25af -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

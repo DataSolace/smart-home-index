@@ -1,5 +1,7 @@
 # NSPanel Pro (NSPanel86PB / NSPanel86PW)
 
+<!-- device-id: 2bd0e764-ce9d-4e47-95c7-4e7cc65547f4 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

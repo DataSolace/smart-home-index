@@ -1,5 +1,7 @@
 # Nous B3Z 2 channel PM Switch
 
+<!-- device-id: e7d27e04-7972-4193-a474-4341cee1d47b -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

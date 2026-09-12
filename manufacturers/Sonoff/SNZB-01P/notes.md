@@ -1,5 +1,7 @@
 # SNZB-01P
 
+<!-- device-id: ab766eec-df40-4a28-aec9-074ffe0b3676 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

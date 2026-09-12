@@ -1,5 +1,7 @@
 # eufy Security SmartTrack Card
 
+<!-- device-id: 73f98d8c-4715-4073-a5e1-d2212579f6de -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

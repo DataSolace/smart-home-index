@@ -1,5 +1,7 @@
 # SwitchBot Outdoor Meter
 
+<!-- device-id: cac98b86-c500-4aea-bbe6-81ffad793cb6 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

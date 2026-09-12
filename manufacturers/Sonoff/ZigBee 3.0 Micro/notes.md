@@ -1,5 +1,7 @@
 # ZigBee 3.0 Micro
 
+<!-- device-id: cfb5c8ce-3e19-4b4a-9a37-7f097f1bdb95 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

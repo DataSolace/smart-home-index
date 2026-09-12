@@ -1,5 +1,7 @@
 # Bosch Smart Home smoke detector II (BSD-2)
 
+<!-- device-id: 395fd18e-04cf-425c-adae-45c16fdcafb4 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

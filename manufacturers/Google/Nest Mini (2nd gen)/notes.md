@@ -1,5 +1,7 @@
 # Nest Mini (2nd gen)
 
+<!-- device-id: b94fe35a-5e12-46ab-b757-8d68643c4722 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

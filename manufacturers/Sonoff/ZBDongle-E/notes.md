@@ -1,5 +1,7 @@
 # ZBDongle-E
 
+<!-- device-id: 7cc0aab1-983b-4900-87a3-4eb37e847f29 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

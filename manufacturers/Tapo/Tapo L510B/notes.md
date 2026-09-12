@@ -1,5 +1,7 @@
 # Tapo L510B
 
+<!-- device-id: 7c2a42ee-9680-4cf0-beed-678d48d2e06c -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

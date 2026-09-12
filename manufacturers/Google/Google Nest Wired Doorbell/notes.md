@@ -1,5 +1,7 @@
 # Google Nest Wired Doorbell
 
+<!-- device-id: f0e4c38e-3609-4bbf-adc0-081cfb0ccd53 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

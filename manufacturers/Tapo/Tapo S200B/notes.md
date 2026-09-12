@@ -1,5 +1,7 @@
 # Tapo S200B
 
+<!-- device-id: a1013e50-2fb0-4328-8fba-7121c7e19a81 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

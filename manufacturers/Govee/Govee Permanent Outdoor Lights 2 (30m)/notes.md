@@ -1,5 +1,7 @@
 # Govee Permanent Outdoor Lights 2 (30m)
 
+<!-- device-id: 8ea8fe51-213a-4442-84cf-69830745bafe -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

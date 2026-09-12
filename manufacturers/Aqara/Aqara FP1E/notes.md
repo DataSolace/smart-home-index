@@ -1,5 +1,7 @@
 # Aqara  FP1E
 
+<!-- device-id: 41eb6b53-c80d-4def-9d26-1a422962a144 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Tapo P100
 
+<!-- device-id: eceaf548-bd37-40be-a88d-da0d155b19bb -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

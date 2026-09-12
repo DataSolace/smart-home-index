@@ -1,5 +1,7 @@
 # SwitchBot Wallet Finder Card
 
+<!-- device-id: 1e6a2685-d07c-41b1-8399-bf2f1aa928f5 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

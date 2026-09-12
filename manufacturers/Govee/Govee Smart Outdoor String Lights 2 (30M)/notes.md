@@ -1,5 +1,7 @@
 # Govee Smart Outdoor String Lights 2 (30M)
 
+<!-- device-id: 93aaf9ad-188c-4d27-bd14-2e4e2a99c7d1 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

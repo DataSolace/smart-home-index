@@ -1,5 +1,7 @@
 # Google Outdoor Nest Cam (G3AL9)
 
+<!-- device-id: d4f5f2e8-c9cc-460a-bd4a-107b0a888d97 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

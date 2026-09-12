@@ -1,5 +1,7 @@
 # Tuya ZigBee 3.0 Signal Repeater
 
+<!-- device-id: 004168db-0945-4dfc-9265-f556b52180bc -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

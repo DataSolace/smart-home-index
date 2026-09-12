@@ -1,5 +1,7 @@
 # Sonoff ZBMINI
 
+<!-- device-id: 618d7fec-7598-469d-a548-f59555011849 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

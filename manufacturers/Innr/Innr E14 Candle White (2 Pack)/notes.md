@@ -1,5 +1,7 @@
 # Innr E14 Candle White (2 Pack)
 
+<!-- device-id: 1f374837-1e77-40fd-a17a-038109ce1390 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

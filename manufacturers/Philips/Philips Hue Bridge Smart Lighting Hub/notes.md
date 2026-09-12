@@ -1,5 +1,7 @@
 # Philips Hue Bridge Smart Lighting Hub
 
+<!-- device-id: 1d3ba945-66be-4bac-a5a9-039e7266ba58 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

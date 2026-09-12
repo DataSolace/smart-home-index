@@ -1,5 +1,7 @@
 # Aeotec Z-Wave MultiSensor 7
 
+<!-- device-id: a9b7d19f-aa91-4060-bca1-954f098c00d9 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

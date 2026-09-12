@@ -1,5 +1,7 @@
 # UGREEN FineTrack Slim Wallet Tracker
 
+<!-- device-id: 705e7735-b937-4d34-b88c-5d3107bfcd19 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

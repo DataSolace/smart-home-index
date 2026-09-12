@@ -1,5 +1,7 @@
 # Innr Outdoor Festoon Lights (8m)
 
+<!-- device-id: 88ba2b0b-377a-46aa-987a-58bc9b26bcff -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

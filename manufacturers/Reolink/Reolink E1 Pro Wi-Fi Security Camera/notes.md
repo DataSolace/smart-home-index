@@ -1,5 +1,7 @@
 # Reolink E1 Pro Wi-Fi Security Camera
 
+<!-- device-id: 41aab81d-0e2e-4852-93c9-279525dd8233 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

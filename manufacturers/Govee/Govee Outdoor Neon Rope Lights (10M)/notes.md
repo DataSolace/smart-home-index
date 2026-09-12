@@ -1,5 +1,7 @@
 # Govee Outdoor Neon Rope Lights (10M)
 
+<!-- device-id: c25d3dc4-4f23-40cd-b7b9-33f2e2c9a7c5 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

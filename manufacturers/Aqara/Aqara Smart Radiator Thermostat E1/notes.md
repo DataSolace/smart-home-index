@@ -1,5 +1,7 @@
 # Aqara Smart Radiator Thermostat E1
 
+<!-- device-id: acc59946-e793-4a06-a9c4-a678c7243af0 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

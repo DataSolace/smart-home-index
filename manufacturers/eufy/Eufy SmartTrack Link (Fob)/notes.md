@@ -1,5 +1,7 @@
 # Eufy SmartTrack Link (Fob)
 
+<!-- device-id: dec406d3-901b-46e6-b1cf-3637e73415e4 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

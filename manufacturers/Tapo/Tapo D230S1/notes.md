@@ -1,5 +1,7 @@
 # Tapo D230S1
 
+<!-- device-id: ef6c143d-c23b-4bb0-9c94-28be1e2eac7f -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

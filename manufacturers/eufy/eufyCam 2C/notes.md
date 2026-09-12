@@ -1,5 +1,7 @@
 # eufyCam 2C
 
+<!-- device-id: bfd18cbe-f85d-4480-afe3-41434fd7518e -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

@@ -1,5 +1,7 @@
 # Sonoff SNZB-03P
 
+<!-- device-id: b976d539-b954-4a13-a5d8-8fc0d711f8b5 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.

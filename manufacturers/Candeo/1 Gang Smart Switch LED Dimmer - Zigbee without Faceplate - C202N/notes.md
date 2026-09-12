@@ -1,5 +1,7 @@
 # 1 Gang Smart Switch LED Dimmer - Zigbee without Faceplate - C202N
 
+<!-- device-id: b89e376a-f2c4-4b47-a622-1b6146b7c1d6 -->
+
 <!--
 Thanks for contributing! Replace the prompts below with what you know.
 Everything here is optional - partial notes are far more useful than none.
