@@ -1,0 +1,80 @@
+name: Reconcile device notes
+
+# Keeps a notes.md template present for every device in the Smart Home Index.
+#
+# Pulls rather than being pushed to: the index's CMS is only reachable on a
+# private network, and a scheduled pull is self-healing. A publish-time webhook
+# that failed would drop that device silently and forever, whereas a missed run
+# here is picked up by the next one.
+#
+# Never deletes or edits an existing file — see .github/scripts/reconcile-notes.mjs.
+
+on:
+  schedule:
+    # 06:15 UTC daily. Off the hour, since scheduled jobs bunch up on the hour
+    # and get delayed.
+    - cron: "15 6 * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Report what would change without opening a PR"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: reconcile-device-notes
+  cancel-in-progress: false
+
+jobs:
+  reconcile:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Look for devices without a notes template
+        id: reconcile
+        env:
+          MANIFEST_URL: https://smarthomeindex.com/api/device-manifest
+          MANIFEST_SECRET: ${{ secrets.MANIFEST_API_SECRET }}
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+        run: node .github/scripts/reconcile-notes.mjs
+
+      - name: Open or update a pull request
+        if: steps.reconcile.outputs.created != '0' && inputs.dry_run != true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          CREATED: ${{ steps.reconcile.outputs.created }}
+          RENAMED: ${{ steps.reconcile.outputs.renamed }}
+        run: |
+          set -euo pipefail
+          BRANCH=chore/reconcile-device-notes
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add manufacturers
+          git commit -m "chore: add notes templates for ${CREATED} new device(s)"
+
+          # A single reusable branch, so repeated runs update one pull request
+          # instead of opening a new one each day.
+          git push --force-with-lease --set-upstream origin "$BRANCH"
+
+          if [ -z "$(gh pr list --head "$BRANCH" --state open --json number --jq '.[].number')" ]; then
+            gh pr create \
+              --base main \
+              --head "$BRANCH" \
+              --title "Add notes templates for ${CREATED} new device(s)" \
+              --body "Opened automatically by the \`Reconcile device notes\` workflow.
+
+          ${CREATED} device(s) in the Smart Home Index had no \`notes.md\`, so a template has been added for each.
+
+          Renamed devices needing a manual move: **${RENAMED}** — see the workflow run summary for the paths.
+
+          This job only ever adds files. It does not delete or edit anything."
+          else
+            echo "An open pull request already exists for $BRANCH; it has been updated."
+          fi
