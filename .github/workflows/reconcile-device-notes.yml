@@ -33,7 +33,7 @@ jobs:
   reconcile:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Look for devices without a notes template
         id: reconcile
@@ -61,6 +61,14 @@ jobs:
 
           # A single reusable branch, so repeated runs update one pull request
           # instead of opening a new one each day.
+          #
+          # The checkout only fetches main, so without this fetch git has no
+          # remote-tracking ref for the branch and --force-with-lease assumes
+          # it does not exist. Once a previous run has pushed it, every later
+          # push is then rejected with "stale info". Fetching first gives the
+          # lease a real base; if the branch is absent the fetch fails
+          # harmlessly and the lease correctly expects an empty remote.
+          git fetch origin "+refs/heads/$BRANCH:refs/remotes/origin/$BRANCH" || true
           git push --force-with-lease --set-upstream origin "$BRANCH"
 
           if [ -z "$(gh pr list --head "$BRANCH" --state open --json number --jq '.[].number')" ]; then
